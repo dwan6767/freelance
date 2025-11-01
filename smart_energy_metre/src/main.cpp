@@ -1,3 +1,8 @@
+
+
+/* Smart Energy metre demo code , made using standard emonlib , Asynchronus TCP webscoket for live update , made using Access point mode. calibrate it for your usecases*/
+
+
 #include <WiFi.h>
 #include <AsyncTCP.h>
 #include <ESPAsyncWebServer.h>
